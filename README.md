@@ -1,3 +1,3 @@
 ## Color Flipper
 
-Demo is ready to be deployed at: https://blackboldse.github.io/js-color-hipper/
+My site deployed at: https://blackboldse.github.io/js-color-hipper/
